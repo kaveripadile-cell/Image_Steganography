@@ -140,5 +140,5 @@ This project demonstrates image steganography, GUI development using Tkinter, fi
 
 Author
 
-Vishal Chavan  
-Computer Science Engineering Student
+Kaveri Padile
+Information Technology Student
